@@ -6,7 +6,7 @@
   ![JUnit](https://img.shields.io/badge/JUnit_4-25A162?style=for-the-badge&logo=junit5&logoColor=white)
   ![Coverage](https://img.shields.io/badge/Coverage-100%25-success?style=for-the-badge)
   ![Architecture](https://img.shields.io/badge/Architecture-OOP_Strict-blue?style=for-the-badge)
-  ![Academic](https://img.shields.io/badge/Academic_Project-2st_Year-purple?style=for-the-badge)
+  ![Academic](https://img.shields.io/badge/Academic_Project-2nd_Year-purple?style=for-the-badge)
 
 </div>
 
