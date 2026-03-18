@@ -63,8 +63,6 @@ The test suite (`PickingPointsSystemTest`, `KioskTest`, `PickingPointHubTest`) v
 * Overridden `equals()`, `hashCode()`, and `toString()` methods across the inheritance tree.
 * Mocking of geographic anomalies and reflection hacks to verify unreachable defensive code.
 
-*(Note: Add a screenshot of your IDE showing the 100% coverage green bar here!)*
-
 ---
 
 ## Getting Started
@@ -75,7 +73,7 @@ To run the system and verify the coverage locally:
 2. Import the project into your preferred Java IDE (Eclipse, IntelliJ IDEA, or VS Code).
 3. Ensure **JUnit 4** is added to your Build Path.
 4. Run the files inside the `test/` directory using your IDE's Test Runner.
-5. *(Optional)* Run with a Coverage tool (like EclEmma or JaCoCo) to view the 100% branch execution.
+5. Run with a Coverage tool to view the 100% branch execution.
 
 ---
 
