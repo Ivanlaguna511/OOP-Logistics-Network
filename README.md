@@ -1,4 +1,4 @@
-# AmazingCo: Logistics Network Management System (Second practice of the subject OOP, first quarter of the second year)
+# AmazingCo: Logistics Network Management System
 
 <div align="center">
   
@@ -11,7 +11,7 @@
 </div>
 
 > **ABOUT THIS PROJECT:**
-> This repository contains the complete implementation of an Object-Oriented Programming (OOP) system. It simulates a complex logistics and parcel delivery network for a fictional company called *AmazingCo*. 
+> This repository contains the complete implementation of an Object-Oriented Programming (OOP) system. It simulates a complex logistics and parcel delivery network for a fictional company called *AmazingCo*. It was made as the second practice of the subject OOP, first quarter of the second year.
 > 
 > The codebase enforces strict **SOLID principles**, extensive use of **Polymorphism**, and maintains a flawless **100% Test Coverage** ensuring zero dead code and high fault tolerance.
 
