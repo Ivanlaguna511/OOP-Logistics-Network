@@ -15,9 +15,9 @@
 > 
 > The codebase enforces strict **SOLID principles**, extensive use of **Polymorphism**, and maintains a flawless **100% Test Coverage** ensuring zero dead code and high fault tolerance.
 
-![100% Test Coverage](<img width="350" height="208" alt="coverage" src="https://github.com/user-attachments/assets/a672db41-0533-48c0-8d94-f1b24a5d379d" />)
+<img width="350" height="208" alt="coverage" src="https://github.com/user-attachments/assets/a672db41-0533-48c0-8d94-f1b24a5d379d" />
 
-![Javadoc Preview](<img width="950" height="451" alt="javadoc" src="https://github.com/user-attachments/assets/0bd0f42d-dd8b-45d8-9195-6b2cd63cb12a" />)
+<img width="950" height="451" alt="javadoc" src="https://github.com/user-attachments/assets/0bd0f42d-dd8b-45d8-9195-6b2cd63cb12a" />
 
 ---
 
